@@ -1,6 +1,6 @@
 # License
 
-**Aliento en mi piel**
+**Aliento en mi piel, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

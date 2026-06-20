@@ -1,4 +1,4 @@
-# Aliento en mi piel
+# Aliento en mi piel, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Aliento en mi piel |
+| **Title** | Aliento en mi piel, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aliento-en-mi-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Aliento en mi piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aliento-en-mi-piel/) |
+| **Get License** | [Get License For Aliento en mi piel, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aliento-en-mi-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 762663c6f6f50e7e2ade5847f39ff1bf578600a0
+> Acércate un poco, que la noche es de los dos
+> Siento tu perfume y voy perdiendo el control
+> Tú me miras lento y se detiene el reloj
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ddd6fe0160c5ad7dbcab01290dbd742fdabfc95e287476bb6004e40a2aa6d554` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
